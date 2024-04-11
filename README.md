@@ -1,6 +1,6 @@
 # POE_PART_1
 
-Recipe Manager 
+## Recipe Manager 
 This is a console application written in C# that allows users to manage recipes. It provides options to enter recipe details, display recipes, scale recipes, reset quantities, clear data and exit the program.
 
  Features: 
