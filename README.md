@@ -2,6 +2,7 @@
 
 ## Recipe Manager 
 This is a console application written in C# that allows users to manage recipes. It provides options to enter recipe details, display recipes, scale recipes, reset quantities, clear data and exit the program.
+
 ### Features: 
 1.	Enter user name: Allows user to input their names, and it will display a message welcoming the user.        
 2.	Display Recipe: Displays the entered recipe details, including ingredients and steps.      
@@ -18,3 +19,8 @@ How to use the program:
 5.	Reset Quantities: Option 4 is intended to reset the quantities of ingredients to their original values.
 6.	Clear data: Option 5 clears all entered recipe data. 
 7.	Exit: Option 6 exits the program.
+
+Requirements 
+Microsoft Visual Studio
+
+Link for GitHub repository 
