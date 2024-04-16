@@ -4,7 +4,8 @@
 This is a console application written in C# that allows users to manage recipes. It provides options to enter recipe details, display recipes, scale recipes, reset quantities, clear data and exit the program.
 
  Features: 
-1.	Enter user name: Allows user to input their names, and it will display a message welcoming the user.        
+ The user will enter their names and what they want to cook or bake.
+1.	Enter Recipe Details: Allows user to input number of ingredients, name, quantity, measurements and steps.        
 2.	Display Recipe: Displays the entered recipe details, including ingredients and steps.      
 3.	Scale recipe: Allows user to scale the quantities of ingredients by given factor (0.5,2, or 3). 
 4.	Reset Quantities: Is implemented to reset ingredient quantities to their original values. 
